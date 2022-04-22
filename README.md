@@ -16,7 +16,7 @@
 </div>
 <hr>
 
-<img src="assets/gtk.png"></img>
+<img src="assets/showcase.png"></img>
 
 <h2>Installation</h2>
   
