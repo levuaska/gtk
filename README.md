@@ -18,13 +18,13 @@
 
 <img src="assets/showcase.png"></img>
 
-<h2>Installation</h2>
+<h2>🔎 Installation</h2>
   
 - Clone this repository
 - Move this to `~/.themes/`
 - Change the GTK theme to levuaska.
 
-<h2>Thanks<h2>
+<h2>💜 Thanks<h2>
 
 - [saimoomedits](https://github.com/saimoomedits)
 
